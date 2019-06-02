@@ -1,4 +1,4 @@
-﻿╭───「 Help 」
+╭───「 Help 」
 ├≽ {key}About
 ├≽ {key}Help
 ├≽ {key}Me
@@ -44,4 +44,4 @@
 ├≽ {key}CheckPost <on/off>
 ├≽ {key}CheckSticker <on/off>
 │ Copyright @Zero-Cool404
-╰───「 Aditmadzs 」
+╰───「AO BotLine」
